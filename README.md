@@ -22,4 +22,6 @@ Arduino source code sample for each module, can works out of the box but underst
 
 [Souliss Wiki](https://github.com/souliss/souliss/wiki) 
 
+[Souliss Website](http://souliss.net/)
+
 # License
