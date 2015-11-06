@@ -2,7 +2,7 @@
 
 Smart Home in-wall IOT modules with ESP8266.
 
-* Modules must fit in standard electric wall boxes (European Batibox)
+* Modules must fit in standard electric wall boxes (European standard wallbox ⌀67x40mm)
 * Limit the number of components for DIY feasibility
 * Common logic board and different power boards
 
