@@ -21,10 +21,10 @@ Schematic and PCB:
  * Dimmer version: Triac with zero crossing circuit to dim incandescent lamps
 
 ##Software
-Arduino source code sample for each module, can works out of the box but understanding Souliss architecture and configration is requied to build a Smart Home Network with a lot of nodes.
+Arduino source code sample for each module, can works out of the box but understanding Souliss architecture and configration is required to build a Smart Home Network with a lot of nodes.
 
 ##Documentation
-Website: [http://yoannle.github.io/SHIW-IOT/] (http://yoannle.github.io/SHIW-IOT/)
+Website: [] (http://yoannle.github.io/SHIW-IOT/)
 
 Wiki: [https://github.com/YoannLe/SHIW-IOT/wiki] (https://github.com/YoannLe/SHIW-IOT/wiki)
 
