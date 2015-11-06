@@ -1,9 +1,14 @@
-# in-wall-802.11-IOT-ESP8266
-Smart Home in-wall modules with ESP8266.
+# SmartHome-In-Wall-IOT
 
-Source files PCB an source code samples.
+Smart Home in-wall IOT modules with ESP8266.
 
-Designed to be used with Arduino and REST API, Souliss, OpenHab,...
+*Modules must fit in standard electric wall boxes (European Batibox)
+*Autonomous an supplied by 230V
+*Limit the number of components for DIY feasibility
+*Common logic board and different power boards
+
+This GitHub contains PCB files and source code samples.
+Designed to be used with Arduino and REST API or Souliss, OpenHab,...
 
 ##Hardware
 
