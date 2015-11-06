@@ -14,7 +14,7 @@ Designed to be used with Arduino and REST API or Souliss, OpenHab,...
 
 
 ##Software
-Arduino source code sample for each module, can works out of the box but understand Souliss architecture and configration is requied to build a Smart Home Netorck with a lot of modules nodes.
+Arduino source code sample for each module, can works out of the box but understanding Souliss architecture and configration is requied to build a Smart Home Network with a lot of modules nodes.
 
 
 ##References
