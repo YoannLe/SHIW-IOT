@@ -7,6 +7,7 @@ Smart Home in-wall IOT modules with ESP8266.
 * Common logic board and different power boards
 
 This GitHub contains PCB files and source code samples.
+
 Designed to be used with Arduino and REST API or Souliss, OpenHab,...
 
 ##Hardware
