@@ -2,10 +2,9 @@
 
 Smart Home in-wall IOT modules with ESP8266.
 
-*Modules must fit in standard electric wall boxes (European Batibox)
-*Autonomous an supplied by 230V
-*Limit the number of components for DIY feasibility
-*Common logic board and different power boards
+* Modules must fit in standard electric wall boxes (European Batibox)
+* Limit the number of components for DIY feasibility
+* Common logic board and different power boards
 
 This GitHub contains PCB files and source code samples.
 Designed to be used with Arduino and REST API or Souliss, OpenHab,...
