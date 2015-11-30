@@ -24,7 +24,7 @@ Schematic and PCB:
 Arduino source code sample for each module, can works out of the box but understanding Souliss architecture and configration is required to build a Smart Home Network with a lot of nodes.
 
 ##Documentation
-Website: [] (http://yoannle.github.io/SHIW-IOT/)
+Website: [http://shiw-iot.etherniz.net/] (http://shiw-iot.etherniz.net/)
 
 Wiki: [https://github.com/YoannLe/SHIW-IOT/wiki] (https://github.com/YoannLe/SHIW-IOT/wiki)
 
